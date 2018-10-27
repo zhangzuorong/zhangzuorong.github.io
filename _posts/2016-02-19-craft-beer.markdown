@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Craft Beer"
-date: 2016-02-19
+date: 2018-10-27
 categories:
   - Juice
 description:
